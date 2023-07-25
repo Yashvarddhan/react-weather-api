@@ -1,0 +1,15 @@
+{
+  "main.css": "/react-weather-api/static/css/main.8a4f405f.chunk.css",
+  "main.js": "/react-weather-api/static/js/main.d72c83f0.chunk.js",
+  "main.js.map": "/react-weather-api/static/js/main.d72c83f0.chunk.js.map",
+  "runtime~main.js": "/react-weather-api/static/js/runtime~main.929e52a8.js",
+  "runtime~main.js.map": "/react-weather-api/static/js/runtime~main.929e52a8.js.map",
+  "static/js/2.c2d3146c.chunk.js": "/react-weather-api/static/js/2.c2d3146c.chunk.js",
+  "static/js/2.c2d3146c.chunk.js.map": "/react-weather-api/static/js/2.c2d3146c.chunk.js.map",
+  "index.html": "/react-weather-api/index.html",
+  "precache-manifest.5aed3c179abf625e3e0c01b3ed6ec449.js": "/react-weather-api/precache-manifest.5aed3c179abf625e3e0c01b3ed6ec449.js",
+  "service-worker.js": "/react-weather-api/service-worker.js",
+  "static/css/main.8a4f405f.chunk.css.map": "/react-weather-api/static/css/main.8a4f405f.chunk.css.map",
+  "static/media/sunny.jpg": "/react-weather-api/static/media/sunny.a8801997.jpg",
+  "static/media/winter.jpg": "/react-weather-api/static/media/winter.bdda301c.jpg"
+}
